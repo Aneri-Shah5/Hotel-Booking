@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+.main-nav ul, .footer-nav ul{
+    list-style-type: none;  
+}
+.main-nav ul li a{
+    font-size: 18px;
+    color: #267594;
+    margin: 0 10px;
+}
+nav ul li{
+    float: left;
+}
+.main-nav{
+        margin-top: 10px;
+    }  

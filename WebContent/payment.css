@@ -1,0 +1,68 @@
+
+.container
+{
+	width:300px;
+	height:150px;
+	background-color: #267594;
+	color:white;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	border-radius: 5px;
+}
+#btncash
+{
+	position: absolute;
+	background-color: #267594;
+	color: black;
+	width:80px;
+	height:35px;
+	border:0;
+	border-style: solid;
+	left:50px;
+	top:90px;
+
+}
+#cardselect
+{
+	position: absolute;
+	background-color: #267594;
+	color: black;
+	width:80px;
+	height:35px;
+	border:0;
+	border-style: solid;
+	left:150px;
+	top:90px;
+}
+#btncash:hover 
+{
+  background-color:#267594;
+  color: white
+}
+#cardselect:hover 
+{
+  background-color:#267594;
+  color: white
+}
+#paydetail
+{
+	font-size: 24px;
+	margin-left: 25px;
+}
+.main-nav ul, .footer-nav ul{
+    list-style-type: none;  
+}
+.main-nav ul li a{
+    font-size: 18px;
+    color: #267594;
+    margin: 0 10px;
+}
+nav ul li{
+    float: left;
+}
+.main-nav{
+        margin-top: 10px;
+    }  
+@charset "ISO-8859-1";

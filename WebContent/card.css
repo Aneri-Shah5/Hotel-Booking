@@ -1,0 +1,67 @@
+body
+{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+#paymentbtn
+{
+	position: absolute;
+	background-color: white;
+	color: black;
+	width:160px;
+	height:35px;
+	border:0;
+	border-style: solid;
+	left:70px;
+
+}
+
+.container
+{
+	width:300px;
+	height:330px;
+	background-color: #267594;
+	color:white;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	border-radius: 5%;
+}
+.container p
+{
+	margin:0;
+	margin-left:10px;
+	margin-bottom:0px;
+	padding: 10px;
+	font-weight:bold;
+
+}
+.txtbox
+{
+	margin-left: 15px;
+	margin-bottom:10px;
+
+}
+#paymentbtn:hover 
+{
+  background-color:#267594;
+  color: white
+}
+.main-nav ul, .footer-nav ul{
+    list-style-type: none;  
+}
+.main-nav ul li a{
+    font-size: 18px;
+    color: #267594;
+    margin: 0 10px;
+}
+nav ul li{
+    float: left;
+}
+.main-nav{
+        margin-top: 10px;
+    }  
